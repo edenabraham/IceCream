@@ -12,8 +12,8 @@ function calculate() {
     scoops = Number(document.getElementById("scoopsInput").value);
 
     hasSprinkles = document.getElementById("sprinkles").checked;
-    hasWhip = document.getElementById("whip").checked;
-    hasFudge = document.getElementById("fudge").checked;
+    hasWhip = document.getElementById("whippedCream").checked;
+    hasFudge = document.getElementById("hotFudge").checked;
     hasCherry = document.getElementById("cherry").checked;
 
 
